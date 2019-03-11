@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaClient/eurekaclient.iml" filepath="$PROJECT_DIR$/EurekaClient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/eurekaserver.iml" filepath="$PROJECT_DIR$/EurekaServer/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceFeign/sericefeign.iml" filepath="$PROJECT_DIR$/ServiceFeign/sericefeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceRibbon/serviceribbon.iml" filepath="$PROJECT_DIR$/ServiceRibbon/serviceribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceZuul/servicezuul.iml" filepath="$PROJECT_DIR$/ServiceZuul/servicezuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>
